@@ -157,7 +157,7 @@ DEPENDENCIES
   excon (~> 0.25.1)
   jbuilder (~> 1.2)
   jquery-rails
-  paperclip (~> 3.0)
+  paperclip (~> 3.5.2)
   pg
   rails (= 4.0.2)
   rails_12factor

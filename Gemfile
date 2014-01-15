@@ -12,7 +12,7 @@ gem 'bootstrap-sass', github: 'twbs/bootstrap-sass', branch: 'master'
 gem 'devise', '~> 3.2.2'
 gem 'excon', '~> 0.25.1'
 gem 'paperclip', '~> 3.0'
-gem 'aws-sdk', '~> 1.16.1'
+gem 'aws-sdk', '~> 1.32.0'
 
 group :development, :test do
 	gem 'sqlite3'
